@@ -1,4 +1,4 @@
-# Hello! 👋 I'm EqualNoches 
+# Hello! 👋 I'm Edward Díaz
  
 
 💼 **LinkedIn**: [Edward Isaac Díaz Campusano](https://www.linkedin.com/in/edward-isaac-d%C3%ADaz-campusano-20a144280/)
