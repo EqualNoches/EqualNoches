@@ -33,8 +33,9 @@
 
 ### 📊 GitHub Stats
 
-![EqualNoches GitHub Stats](https://github-readme-stats.vercel.app/api?username=EqualNoches&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EqualNoches&layout=compact&theme=radical)
+![Edward's GitHub Stats](https://github-readme-stats.vercel.app/api?username=equalnoches&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=equalnoches&layout=compact&theme=default&hide_border=true)
 
 ---
 
